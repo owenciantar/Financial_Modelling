@@ -6,7 +6,7 @@ A Monte Carlo stock price simulator built in Python using Geometric Brownian Mot
 
 The simulator models stock price evolution using the GBM stochastic differential equation:
 
-$$dS = \mu S \, dt + \sigma S \, dW$$
+dSt = µSt dt + σSt dWt
 
 Which in discrete form becomes:
 
